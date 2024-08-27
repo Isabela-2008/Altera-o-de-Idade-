@@ -1,0 +1,39 @@
+# Enunciado do Projeto: Cálculo de Nova Idade
+
+## Objetivo
+
+Desenvolver um programa simples em Python que solicite ao usuário a sua idade atual, adicione 5 anos a ela e exiba a nova idade.
+
+## Especificações
+
+1. **Leitura da Idade**
+   - O programa deve solicitar ao usuário que insira a sua idade em anos.
+
+2. **Cálculo da Nova Idade**
+   - O programa deve adicionar 5 anos à idade fornecida pelo usuário.
+
+3. **Exibição da Nova Idade**
+   - O programa deve exibir a nova idade calculada em uma mensagem clara.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e de fácil entendimento, com tratamento básico para garantir que a entrada seja um número inteiro válido.
+
+
+# Programa de Cálculo de Nova Idade
+
+Este é um programa simples em Python que solicita ao usuário a sua idade, adiciona 5 anos a ela e exibe a nova idade resultante.
+
+## Funcionalidades
+
+- **Leitura da Idade:** O programa solicita ao usuário que insira a sua idade atual.
+- **Cálculo da Nova Idade:** O programa adiciona 5 anos à idade fornecida.
+- **Exibição do Resultado:** O programa exibe a nova idade calculada.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculo-nova-idade.git
